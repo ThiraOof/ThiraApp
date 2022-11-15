@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ThiraApp/static/css/main.78cb596d.css",
-    "main.js": "/ThiraApp/static/js/main.125614de.js",
+    "main.js": "/ThiraApp/static/js/main.e0488e3e.js",
     "static/js/787.633816a4.chunk.js": "/ThiraApp/static/js/787.633816a4.chunk.js",
     "index.html": "/ThiraApp/index.html",
     "main.78cb596d.css.map": "/ThiraApp/static/css/main.78cb596d.css.map",
-    "main.125614de.js.map": "/ThiraApp/static/js/main.125614de.js.map",
+    "main.e0488e3e.js.map": "/ThiraApp/static/js/main.e0488e3e.js.map",
     "787.633816a4.chunk.js.map": "/ThiraApp/static/js/787.633816a4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.78cb596d.css",
-    "static/js/main.125614de.js"
+    "static/js/main.e0488e3e.js"
   ]
 }
